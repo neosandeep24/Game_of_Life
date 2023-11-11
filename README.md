@@ -1,5 +1,7 @@
 # Game_of_Life
 
+Press Game to play 👇
+<a href="https://game-of-life-zeta-two.vercel.app/">Game</a>
 # HOW TO PLAY
 
 1) Place patterns how ever you like by clicking on the layout
