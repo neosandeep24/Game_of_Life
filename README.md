@@ -1,6 +1,6 @@
 # Game_of_Life
 
-Press Game to play 👇
+Press Game to play 👉
 <a href="https://game-of-life-zeta-two.vercel.app/">Game</a>
 # HOW TO PLAY
 
